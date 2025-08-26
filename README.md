@@ -15,3 +15,5 @@ The **API** can instantly respond with a "report started" message and a report I
 Your `store.db` (**SQLite**) is great for getting started, but it can cause errors if many people use your app at once. 
 
 Switching to a database like **PostgreSQL** will make your app more reliable and able to handle more traffic without issues.
+
+# (CSV output file is there present in folders structure only.)
