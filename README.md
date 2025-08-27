@@ -16,4 +16,4 @@ Your `store.db` (**SQLite**) is great for getting started, but it can cause erro
 
 Switching to a database like **PostgreSQL** will make your app more reliable and able to handle more traffic without issues.
 
-# (CSV output file is there present in folders structure only.)
+# CSV Output file link - https://drive.google.com/file/d/1eebAFPKNI_84hxs_HrvPkDp363903Q00/view?usp=sharing
