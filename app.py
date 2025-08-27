@@ -17,7 +17,7 @@ init_db()
 def home():
     return {"message": "API running with database ready!"}
 
-@app.route("/trigger_report", methods=["POST"])
+@app.route("/trigger_report", methods=["GET"])
 def trigger():
     report_id = str(uuid.uuid4())
     try:
